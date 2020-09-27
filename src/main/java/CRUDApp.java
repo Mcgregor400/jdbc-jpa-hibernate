@@ -50,6 +50,7 @@ public class CRUDApp {
                     System.exit(0);
                     //TODO dodać modyfikację, usuwanie i wyszukiwanie rekordów
                     //aldksajd;sljfads;fja;jlfa
+                    //asdjfashjfa
             }
         }
     }
